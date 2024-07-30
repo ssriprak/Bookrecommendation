@@ -1,5 +1,5 @@
-# Bookrecommendation
-Creating a book recommendation system
+# Book Recommendation System
+Creating a book recommendation system. This project is designed to deepen understanding of basic recommendation systems, nearest neighbor algorithms, and CSR matrices. It is intended as a learning exercise and can be incrementally improved over time. This is part of the learning phase.
 
 ## Overview
 This project aims to build a book recommendation system using collaborative filtering techniques and data analysis. The project consists of multiple notebooks that cover different aspects of data exploration, model building, and evaluation.
